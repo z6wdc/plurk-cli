@@ -1,0 +1,18 @@
+# Binary
+/plurk
+
+# Go test and coverage output
+*.test
+*.out
+coverage.*
+
+# Credentials and deletion logs
+config.json
+*.jsonl
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
